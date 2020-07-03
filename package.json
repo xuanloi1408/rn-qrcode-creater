@@ -20,7 +20,9 @@
   "dependencies": {
     "create-react-class": "^15.6.0",
     "prop-types": "^15.5.10",
-    "react-native-webview": "^10.3.2",
     "qr.js": "0.0.0"
+  },
+  "peerDependencies": {
+    "react-native-webview": "^10.3.2"
   }
 }
